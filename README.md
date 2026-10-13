@@ -7,8 +7,8 @@ Console 1 runs plug-ins without their own windows or preset browsers, so the pre
 **Download** from the [latest release](https://github.com/woodgrain816/WG-Console-1-Preset-Bridge-releases/releases/latest):
 
 - **Windows:** `WG-Console-1-Preset-Bridge-Setup-*.exe` (no admin needed)
-- **Mac, Apple Silicon:** `...-mac-arm64.zip`
-- **Mac, Intel:** `...-mac-x86_64.zip`
+- **Mac, Apple Silicon:** `...-mac-arm64.dmg`
+- **Mac, Intel:** `...-mac-x86_64.dmg`
 
 The release notes explain how to open the Mac build the first time.
 
